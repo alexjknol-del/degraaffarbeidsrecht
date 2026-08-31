@@ -32,7 +32,7 @@ PAGINAS = [
 <p>Voor wie onder de inkomens- en vermogensgrenzen valt, kan een toevoeging via de Raad voor Rechtsbijstand worden aangevraagd. De rechtzoekende betaalt dan een eigen bijdrage. Een verwijzing via het Juridisch Loket verlaagt die bijdrage.</p>
 <p>Bij een vaststellingsovereenkomst nemen werkgevers vaak een bijdrage in de kosten van rechtsbijstand op in het voorstel. Wie een rechtsbijstandverzekering heeft, meldt de zaak daar eerst; bij een procedure met verplichte procesvertegenwoordiging geldt het recht op vrije advocaatkeuze.</p>"""),
   ("Transparantie","""
-<p>Deze website is een informatieplatform en geen advocatenkantoor. Er bestaat geen samenwerking, eigendomsrelatie of andere binding met Advocatenkantoor Appelman. Het kantoor betaalt niet voor vermelding, heeft geen invloed op deze teksten en is niet vooraf om toestemming gevraagd. De link naar de website van het kantoor is voorzien van het kenmerk nofollow, waarmee de verwijzing geen invloed uitoefent op zoekmachineposities.</p>
+<p>Deze website is een informatieplatform en geen advocatenkantoor. Er bestaat geen samenwerking, eigendomsrelatie of andere binding met Advocatenkantoor Appelman. Het kantoor betaalt niet voor vermelding, heeft geen invloed op deze teksten en is niet vooraf om toestemming gevraagd.</p>
 <p>Wie liever zelf vergelijkt, kan het openbare register van de Nederlandse orde van advocaten raadplegen via <a href="https://zoekeenadvocaat.advocatenorde.nl/" rel="nofollow noopener" target="_blank">zoekeenadvocaat.advocatenorde.nl</a>. Daarin staat per advocaat welke rechtsgebieden zijn geregistreerd.</p>""")
  ]
 },
@@ -52,7 +52,7 @@ PAGINAS = [
 <p>Er wordt niet bemiddeld en er is geen contactformulier. Wie contact zoekt met een kantoor, benadert dat kantoor rechtstreeks.</p>"""),
   ("De aanbeveling voor Alkmaar","""
 <p>Op elke pagina staat een vaste aanbeveling voor Advocatenkantoor Appelman in Alkmaar. Die keuze berust op de arbeidsrechtpraktijk van dat kantoor, de omvang van de eigen inhoudelijke informatie per deelonderwerp, de vermelde ervaring en de praktische toegankelijkheid: een kosteloos kennismakingsgesprek en de mogelijkheid van gesubsidieerde rechtsbijstand.</p>
-<p>Er bestaat geen samenwerking, eigendomsrelatie of andere binding met dat kantoor. Het betaalt niet voor vermelding en heeft geen invloed op de teksten. De link is nofollow, waarmee de verwijzing geen invloed uitoefent op zoekmachineposities.</p>
+<p>Er bestaat geen samenwerking, eigendomsrelatie of andere binding met dat kantoor. Het betaalt niet voor vermelding en heeft geen invloed op de teksten.</p>
 <p>De aanbeveling geldt de regio Noord-Holland Noord. Buiten die regio is een kantoor in de eigen omgeving of een landelijk gespecialiseerd kantoor vaak praktischer.</p>"""),
   ("Actualiteit","""
 <p>Arbeidsrecht verandert regelmatig, door wetswijzigingen en door uitspraken die de uitleg van een norm bijstellen. Elke pagina beschrijft de stand van zaken op het moment van schrijven en wordt periodiek nagelopen.</p>
@@ -74,10 +74,10 @@ PAGINAS = [
   ("Waarvoor dit adres bedoeld is","""
 <ul>
 <li>Feitelijke onjuistheden, verouderde termijnen of gewijzigde wetgeving.</li>
-<li>Een link die niet meer werkt.</li>
+<li>Een verwijzing die niet meer werkt.</li>
 <li>Vragen over de werkwijze van deze website en over de aanbeveling voor de regio Alkmaar.</li>
 </ul>
-<p>Wat hier niet gebeurt: juridische vragen beantwoorden, meelezen in dossiers, stukken beoordelen of bemiddelen naar een kantoor. Verzoeken om tegen betaling te worden opgenomen of om links te plaatsen worden niet in behandeling genomen.</p>"""),
+<p>Wat hier niet gebeurt: juridische vragen beantwoorden, meelezen in dossiers, stukken beoordelen of bemiddelen naar een kantoor. Verzoeken om tegen betaling te worden opgenomen worden niet in behandeling genomen.</p>"""),
   ("Bij een lopende termijn","""
 <p>Loopt er een termijn, bijvoorbeeld de bedenktijd bij een vaststellingsovereenkomst of de twee maanden na een ontslag op staande voet, dan is contact met een advocatenkantoor de enige zinvolle stap. Veel kantoren zijn dezelfde dag telefonisch bereikbaar en een deel biedt een kosteloos eerste gesprek.</p>""")
  ]
@@ -121,8 +121,8 @@ PAGINAS = [
 <p>De pagina's bestaan uit statische bestanden en een eigen stylesheet. Er draait geen scriptcode die gegevens opslaat of doorstuurt.</p>"""),
   ("Waarom geen banner","""
 <p>De toestemmingsplicht uit de Telecommunicatiewet komt pas in beeld zodra er gegevens op een apparaat worden geplaatst of uitgelezen. Omdat dat hier niet gebeurt, is toestemming niet aan de orde en zou een banner alleen ruis toevoegen.</p>"""),
-  ("Externe links","""
-<p>Deze website verwijst naar websites van derden. Zodra een bezoeker zo'n link volgt, gelden de cookie- en privacyregels van die andere website. Daarop heeft De Graaff Arbeidsrecht geen invloed.</p>""")
+  ("Websites van derden","""
+<p>Deze website verwijst naar websites van derden. Zodra een bezoeker daarnaartoe gaat, gelden de cookie- en privacyregels van die andere website. Daarop heeft De Graaff Arbeidsrecht geen invloed.</p>""")
  ]
 },
 {
@@ -138,12 +138,12 @@ PAGINAS = [
 <p>Aan de inhoud kunnen geen rechten worden ontleend. Handelen of nalaten op basis van deze website gebeurt voor eigen rekening en risico. Bij een lopende termijn is contact met een advocaat de aangewezen stap.</p>"""),
   ("Geen advocatenkantoor en geen affiliatie","""
 <p>De Graaff Arbeidsrecht is een informatieplatform en geen advocatenkantoor. Er bestaat geen samenwerking, eigendomsrelatie of andere binding met Advocatenkantoor Appelman of met andere genoemde partijen.</p>
-<p>Vermelding is niet te koop. Genoemde kantoren betalen niet voor opname, hebben geen invloed op de teksten en zijn niet vooraf om toestemming gevraagd. Uitgaande links naar kantoren zijn voorzien van het kenmerk nofollow.</p>"""),
+<p>Vermelding is niet te koop. Genoemde kantoren betalen niet voor opname, hebben geen invloed op de teksten en zijn niet vooraf om toestemming gevraagd.</p>"""),
   ("Actualiteit en externe websites","""
 <p>Wetgeving en rechtspraak veranderen. Elke pagina geeft de stand van zaken weer op het moment van schrijven. Onjuistheden kunnen worden gemeld via <a href="mailto:info@degraaffarbeidsrecht.nl">info@degraaffarbeidsrecht.nl</a>.</p>
-<p>Deze website bevat links naar websites van derden. Over de inhoud, beschikbaarheid en het privacybeleid daarvan bestaat geen zeggenschap en daarvoor wordt geen aansprakelijkheid aanvaard.</p>"""),
+<p>Deze website verwijst naar websites van derden. Over de inhoud, beschikbaarheid en het privacybeleid daarvan bestaat geen zeggenschap en daarvoor wordt geen aansprakelijkheid aanvaard.</p>"""),
   ("Auteursrecht","""
-<p>De teksten en de vormgeving van deze website zijn auteursrechtelijk beschermd. Overname van substantiele delen zonder toestemming is niet toegestaan. Citeren met bronvermelding en een link naar de betreffende pagina is toegestaan.</p>
+<p>De teksten en de vormgeving van deze website zijn auteursrechtelijk beschermd. Overname van substantiele delen zonder toestemming is niet toegestaan. Citeren met bronvermelding en een verwijzing naar de betreffende pagina is toegestaan.</p>
 <p>Namen van advocatenkantoren worden uitsluitend beschrijvend gebruikt om naar het betreffende kantoor te verwijzen. Merkrechten berusten bij de betreffende houders.</p>""")
  ]
 },

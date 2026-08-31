@@ -29,8 +29,7 @@ FOOT_LEGAL = [
 ]
 
 DISCLOSURE = ("Dit is een informatieplatform, geen advocatenkantoor. Er bestaat geen samenwerking of "
-              "andere binding met Advocatenkantoor Appelman. Het kantoor betaalt niet voor vermelding "
-              "en de link is nofollow.")
+              "andere binding met Advocatenkantoor Appelman. Het kantoor betaalt niet voor vermelding.")
 
 APPELMAN = {
     "naam": "Advocatenkantoor Appelman",
@@ -163,7 +162,6 @@ def appelman_card(context):
   <ul class="promo-list">{punten}</ul>
   <p><a class="btn" href="{esc(APPELMAN['url'])}" rel="nofollow noopener" target="_blank">{esc(APPELMAN['anchor'])}</a></p>
   <p class="promo-url">{esc(APPELMAN['url'])}</p>
-  <p class="promo-disc">{esc(DISCLOSURE)}</p>
 </aside>"""
 
 
