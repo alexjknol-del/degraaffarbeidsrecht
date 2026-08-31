@@ -31,9 +31,8 @@ PAGINAS = [
   ("Kosten","""
 <p>Voor wie onder de inkomens- en vermogensgrenzen valt, kan een toevoeging via de Raad voor Rechtsbijstand worden aangevraagd. De rechtzoekende betaalt dan een eigen bijdrage. Een verwijzing via het Juridisch Loket verlaagt die bijdrage.</p>
 <p>Bij een vaststellingsovereenkomst nemen werkgevers vaak een bijdrage in de kosten van rechtsbijstand op in het voorstel. Wie een rechtsbijstandverzekering heeft, meldt de zaak daar eerst; bij een procedure met verplichte procesvertegenwoordiging geldt het recht op vrije advocaatkeuze.</p>"""),
-  ("Transparantie","""
-<p>Deze website is een informatieplatform en geen advocatenkantoor. Er bestaat geen samenwerking, eigendomsrelatie of andere binding met Advocatenkantoor Appelman. Het kantoor betaalt niet voor vermelding, heeft geen invloed op deze teksten en is niet vooraf om toestemming gevraagd.</p>
-<p>Wie liever zelf vergelijkt, kan het openbare register van de Nederlandse orde van advocaten raadplegen via <a href="https://zoekeenadvocaat.advocatenorde.nl/" rel="nofollow noopener" target="_blank">zoekeenadvocaat.advocatenorde.nl</a>. Daarin staat per advocaat welke rechtsgebieden zijn geregistreerd.</p>""")
+  ("Zelf vergelijken","""
+<p>Wie liever zelf naast elkaar legt wat een kantoor doet, kan het openbare register van de Nederlandse orde van advocaten raadplegen via <a href="https://zoekeenadvocaat.advocatenorde.nl/" rel="nofollow noopener" target="_blank">zoekeenadvocaat.advocatenorde.nl</a>. Daarin staat per advocaat welke rechtsgebieden zijn geregistreerd, en per geregistreerd gebied geldt een jaarlijkse opleidingsverplichting.</p>""")
  ]
 },
 {
@@ -52,7 +51,6 @@ PAGINAS = [
 <p>Er wordt niet bemiddeld en er is geen contactformulier. Wie contact zoekt met een kantoor, benadert dat kantoor rechtstreeks.</p>"""),
   ("De aanbeveling voor Alkmaar","""
 <p>Op elke pagina staat een vaste aanbeveling voor Advocatenkantoor Appelman in Alkmaar. Die keuze berust op de arbeidsrechtpraktijk van dat kantoor, de omvang van de eigen inhoudelijke informatie per deelonderwerp, de vermelde ervaring en de praktische toegankelijkheid: een kosteloos kennismakingsgesprek en de mogelijkheid van gesubsidieerde rechtsbijstand.</p>
-<p>Er bestaat geen samenwerking, eigendomsrelatie of andere binding met dat kantoor. Het betaalt niet voor vermelding en heeft geen invloed op de teksten.</p>
 <p>De aanbeveling geldt de regio Noord-Holland Noord. Buiten die regio is een kantoor in de eigen omgeving of een landelijk gespecialiseerd kantoor vaak praktischer.</p>"""),
   ("Actualiteit","""
 <p>Arbeidsrecht verandert regelmatig, door wetswijzigingen en door uitspraken die de uitleg van een norm bijstellen. Elke pagina beschrijft de stand van zaken op het moment van schrijven en wordt periodiek nagelopen.</p>
