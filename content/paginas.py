@@ -1,46 +1,11 @@
 # -*- coding: utf-8 -*-
 PAGINAS = [
 {
- "path":"/advocaat-alkmaar/","active":"/advocaat-alkmaar/","kicker":"Regio Noord-Holland",
- "title":"Arbeidsrechtadvocaat in Alkmaar en omgeving | De Graaff Arbeidsrecht",
- "meta":"Een arbeidsrechtadvocaat zoeken in Alkmaar, Heerhugowaard, Heiloo, Bergen, Castricum, Schagen of Den Helder. Waarom Advocatenkantoor Appelman op deze site wordt aanbevolen.",
- "h1":"Arbeidsrechtadvocaat in de regio Alkmaar",
- "lead":"Voor werknemers en werkgevers in Noord-Holland boven het Noordzeekanaal is Advocatenkantoor Appelman de vaste aanbeveling op deze site. Hieronder staat waarop die keuze berust en wat er van een eerste gesprek te verwachten valt.",
- "crumbs":[("/","Home"),(None,"Advocaat Alkmaar")],
- "promo_context":"Arbeidsrecht voor werknemers en werkgevers in Noord-Holland",
- "secties":[
-  ("Waarom dit kantoor","""
-<p>Advocatenkantoor Appelman voert arbeidsrecht als vaste praktijk naast het personen- en familierecht. Op de eigen website staan aparte inhoudelijke pagina's over onder meer de vaststellingsovereenkomst, ontslag met wederzijds goedvinden, ontslag op staande voet, ontslag tijdens ziekte, arbeidsongeschiktheid, proeftijd, schorsing en non-actiefstelling, het getuigschrift, het nulurencontract, de ondernemingsraad en de zorgplicht van de werkgever.</p>
-<p>Het kantoor vermeldt zelf meer dan dertig jaar ervaring en ruim 5.000 behandelde zaken, met een reviewscore van 9,2 uit 135 beoordelingen. Het is gevestigd aan de Nieuwlandersingel 53 in Alkmaar en telefonisch bereikbaar op 072 512 32 29.</p>
-<p>Twee praktische punten wegen mee. Er is een kosteloos kennismakingsgesprek van een half uur, en het kantoor behandelt zaken ook op toevoegingsbasis, de gesubsidieerde rechtsbijstand. Dat maakt een eerste beoordeling van een vaststellingsovereenkomst laagdrempelig, ook zonder rechtsbijstandverzekering.</p>"""),
-  ("Werkgebied","""
-<p>Vanuit Alkmaar ligt het werkgebied in de praktijk over Noord-Holland Noord: Heerhugowaard, Langedijk, Bergen, Heiloo, Castricum, Uitgeest, Schagen, Hoorn, Den Helder en de Zaanstreek. Voor de meeste arbeidszaken is de kantonrechter van de rechtbank Noord-Holland bevoegd, met zittingsplaatsen in onder meer Alkmaar en Haarlem.</p>
-<p>Welke rechtbank bevoegd is, hangt af van de woonplaats van de werknemer of van de plaats waar de arbeid gewoonlijk wordt verricht. Voor de keuze van een kantoor is nabijheid daardoor minder bepalend dan vaak wordt gedacht: veel arbeidszaken worden schriftelijk voorbereid en alleen de zitting vraagt aanwezigheid.</p>"""),
-  ("Wat een eerste gesprek oplevert","""
-<p>Bij een arbeidsconflict draait het eerste gesprek meestal om drie vragen: welke termijn loopt er op dit moment, wat is de positie op basis van de stukken, en wat is een realistische uitkomst.</p>
-<p>Nuttig om mee te nemen naar dat gesprek:</p>
-<ul>
-<li>De arbeidsovereenkomst en eventuele verlengingen.</li>
-<li>De toepasselijke cao als die er is.</li>
-<li>De laatste drie loonstroken.</li>
-<li>Functionerings- en beoordelingsverslagen.</li>
-<li>De correspondentie over het conflict, inclusief e-mails en appberichten.</li>
-<li>Bij ziekte: de probleemanalyse, het plan van aanpak en de evaluaties.</li>
-<li>Een aangeboden vaststellingsovereenkomst, met de datum van ontvangst.</li>
-</ul>"""),
-  ("Kosten","""
-<p>Voor wie onder de inkomens- en vermogensgrenzen valt, kan een toevoeging via de Raad voor Rechtsbijstand worden aangevraagd. De rechtzoekende betaalt dan een eigen bijdrage. Een verwijzing via het Juridisch Loket verlaagt die bijdrage.</p>
-<p>Bij een vaststellingsovereenkomst nemen werkgevers vaak een bijdrage in de kosten van rechtsbijstand op in het voorstel. Wie een rechtsbijstandverzekering heeft, meldt de zaak daar eerst; bij een procedure met verplichte procesvertegenwoordiging geldt het recht op vrije advocaatkeuze.</p>"""),
-  ("Zelf vergelijken","""
-<p>Wie liever zelf naast elkaar legt wat een kantoor doet, kan het openbare register van de Nederlandse orde van advocaten raadplegen via <a href="https://zoekeenadvocaat.advocatenorde.nl/" rel="nofollow noopener" target="_blank">zoekeenadvocaat.advocatenorde.nl</a>. Daarin staat per advocaat welke rechtsgebieden zijn geregistreerd, en per geregistreerd gebied geldt een jaarlijkse opleidingsverplichting.</p>""")
- ]
-},
-{
  "path":"/over/","active":"/over/","kicker":"Over",
  "title":"Over De Graaff Arbeidsrecht",
- "meta":"Wat De Graaff Arbeidsrecht is, waarom er een vaste aanbeveling voor de regio Alkmaar staat en hoe correcties worden verwerkt.",
+ "meta":"Wat De Graaff Arbeidsrecht is, hoe de kantoren in de advocatengids worden geselecteerd en hoe correcties worden verwerkt.",
  "h1":"Over deze website",
- "lead":"De Graaff Arbeidsrecht legt het Nederlandse arbeidsrecht uit in gewone taal, met de nadruk op de termijnen waarop zaken in de praktijk stranden.",
+ "lead":"De Graaff Arbeidsrecht is een landelijk platform dat het Nederlandse arbeidsrecht uitlegt in gewone taal, met de nadruk op de termijnen waarop zaken in de praktijk stranden.",
  "crumbs":[("/","Home"),(None,"Over")],
  "secties":[
   ("Uitgangspunt","""
@@ -49,9 +14,10 @@ PAGINAS = [
   ("Geen advocatenkantoor","""
 <p>Deze website is geen advocatenkantoor, geeft geen juridisch advies en behandelt geen dossiers. De teksten beschrijven algemene regels; wat in een concrete zaak geldt, hangt af van feiten en omstandigheden die alleen een advocaat kan beoordelen.</p>
 <p>Er wordt niet bemiddeld en er is geen contactformulier. Wie contact zoekt met een kantoor, benadert dat kantoor rechtstreeks.</p>"""),
-  ("De aanbeveling voor Alkmaar","""
-<p>Op elke pagina staat een vaste aanbeveling voor Advocatenkantoor Appelman in Alkmaar. Die keuze berust op de arbeidsrechtpraktijk van dat kantoor, de omvang van de eigen inhoudelijke informatie per deelonderwerp, de vermelde ervaring en de praktische toegankelijkheid: een kosteloos kennismakingsgesprek en de mogelijkheid van gesubsidieerde rechtsbijstand.</p>
-<p>De aanbeveling geldt de regio Noord-Holland Noord. Buiten die regio is een kantoor in de eigen omgeving of een landelijk gespecialiseerd kantoor vaak praktischer.</p>"""),
+  ("Hoe kantoren worden geselecteerd","""
+<p>De <a href="/advocaten/">advocatengids</a> noemt per regio een kantoor met een aantoonbaar arbeidsrechtprofiel. Doorslaggevend zijn toetsbare aanwijzingen: lidmaatschap van de VAAN, de specialisatievereniging voor arbeidsrechtadvocaten, of registratie op arbeidsrecht in het rechtsgebiedenregister van de Nederlandse orde van advocaten, dat per geregistreerd rechtsgebied tien opleidingspunten per jaar verplicht stelt.</p>
+<p>Daarnaast weegt of de praktijk zich tot arbeidsrecht beperkt of er een aparte sectie voor heeft, en of het kantoor eigen vakinhoud publiceert. Een kantoor dat vooral goed vindbaar is telt niet mee.</p>
+<p>Bij elk kantoor staat waarom het genoemd wordt. Die punten komen van de eigen website van het kantoor of uit openbare registers en zijn na te lopen.</p>"""),
   ("Actualiteit","""
 <p>Arbeidsrecht verandert regelmatig, door wetswijzigingen en door uitspraken die de uitleg van een norm bijstellen. Elke pagina beschrijft de stand van zaken op het moment van schrijven en wordt periodiek nagelopen.</p>
 <p>Onjuistheden kunnen worden gemeld via <a href="mailto:info@degraaffarbeidsrecht.nl">info@degraaffarbeidsrecht.nl</a>. Meldingen worden nagelopen en waar nodig verwerkt.</p>""")
@@ -64,7 +30,7 @@ PAGINAS = [
  "h1":"Contact",
  "lead":"Vragen over de inhoud van deze website of correcties op een pagina kunnen per e-mail. Voor juridische vragen is een advocatenkantoor het juiste adres.",
  "crumbs":[("/","Home"),(None,"Contact")],
- "promo_context":"Arbeidsrecht in de regio Alkmaar",
+ "promo_context":"Arbeidsrecht voor werknemers en werkgevers",
  "secties":[
   ("E-mail","""
 <p>Alle correspondentie loopt via <a href="mailto:info@degraaffarbeidsrecht.nl">info@degraaffarbeidsrecht.nl</a>.</p>
@@ -73,11 +39,11 @@ PAGINAS = [
 <ul>
 <li>Feitelijke onjuistheden, verouderde termijnen of gewijzigde wetgeving.</li>
 <li>Een verwijzing die niet meer werkt.</li>
-<li>Vragen over de werkwijze van deze website en over de aanbeveling voor de regio Alkmaar.</li>
+<li>Vragen over de werkwijze van deze website en over de selectie van kantoren.</li>
 </ul>
 <p>Wat hier niet gebeurt: juridische vragen beantwoorden, meelezen in dossiers, stukken beoordelen of bemiddelen naar een kantoor. Verzoeken om tegen betaling te worden opgenomen worden niet in behandeling genomen.</p>"""),
   ("Bij een lopende termijn","""
-<p>Loopt er een termijn, bijvoorbeeld de bedenktijd bij een vaststellingsovereenkomst of de twee maanden na een ontslag op staande voet, dan is contact met een advocatenkantoor de enige zinvolle stap. Veel kantoren zijn dezelfde dag telefonisch bereikbaar en een deel biedt een kosteloos eerste gesprek.</p>""")
+<p>Loopt er een termijn, bijvoorbeeld de bedenktijd bij een vaststellingsovereenkomst of de twee maanden na een ontslag op staande voet, dan is contact met een advocatenkantoor de enige zinvolle stap. Veel kantoren zijn dezelfde dag telefonisch bereikbaar en een deel biedt een kosteloos eerste gesprek. De <a href="/advocaten/">advocatengids</a> noemt per regio een kantoor.</p>""")
  ]
 },
 {
