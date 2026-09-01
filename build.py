@@ -28,8 +28,8 @@ FOOT_LEGAL = [
     ("/disclaimer/", "Disclaimer"),
 ]
 
-DISCLOSURE = ("Dit is een informatieplatform, geen advocatenkantoor. Er bestaat geen samenwerking of "
-              "andere binding met Advocatenkantoor Appelman. Het kantoor betaalt niet voor vermelding.")
+DISCLOSURE = ("Dit is een informatieplatform en geen advocatenkantoor. Er bestaan geen samenwerkingen "
+              "met advocatenkantoren en kantoren betalen niet voor vermelding.")
 
 APPELMAN = {
     "naam": "Advocatenkantoor Appelman",
@@ -131,7 +131,7 @@ def page(*, path, title, description, body, crumbs=None, jsonld=None, active=Non
   <div class="wrap ft-top">
     <div class="ft-brand">
       <span class="logo-bug" aria-hidden="true">dG</span>
-      <p>Onafhankelijke uitleg over het Nederlandse arbeidsrecht, met een vaste aanbeveling voor de regio Alkmaar.</p>
+      <p>Onafhankelijke uitleg over het Nederlandse arbeidsrecht, in gewone taal en met de termijnen erbij.</p>
       <p class="ft-disc">{esc(DISCLOSURE)}</p>
     </div>
     <div class="ft-col"><h2>Onderwerpen</h2><ul>{"".join(f'<li><a href="/onderwerpen/{esc(o["slug"])}/">{esc(o["titel"])}</a></li>' for o in ONDERWERPEN[:6])}</ul></div>
