@@ -24,6 +24,7 @@ MENU = [
 ]
 
 FOOT_LEGAL = [
+    ("/partners/", "Partners"),
     ("/privacybeleid/", "Privacybeleid"),
     ("/cookiebeleid/", "Cookiebeleid"),
     ("/disclaimer/", "Disclaimer"),

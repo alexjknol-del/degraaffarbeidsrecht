@@ -1,6 +1,20 @@
 # -*- coding: utf-8 -*-
 PAGINAS = [
 {
+ "path":"/partners/","active":None,"kicker":"Partners",
+ "title":"Partners | De Graaff Arbeidsrecht",
+ "meta":"Externe bronnen over arbeidsrecht en rechtsbijstand waar De Graaff Arbeidsrecht naar verwijst.",
+ "h1":"Partners",
+ "lead":"De Graaff Arbeidsrecht verwijst hier naar externe bronnen over het arbeidsrecht en de gang naar de rechter.",
+ "crumbs":[("/","Home"),(None,"Partners")],
+ "secties":[
+  ("Rechtspraak.nl","""
+<p>Rechtspraak.nl is de website van de Rechtspraak en publiceert uitspraken van rechtbanken, gerechtshoven en de Hoge Raad. Daarnaast staat er uitleg over het verloop van een procedure bij de kantonrechter, de termijnen en de griffierechten. <a href="https://www.rechtspraak.nl" target="_blank" rel="noopener">Rechtspraak.nl</a></p>"""),
+  ("Het Juridisch Loket","""
+<p>Het Juridisch Loket geeft kosteloos eerste juridische informatie aan particulieren en werknemers, onder meer over ontslag, loon en vaststellingsovereenkomsten, en verwijst door naar een advocaat of mediator waar dat nodig is. <a href="https://www.juridischloket.nl" target="_blank" rel="noopener">Het Juridisch Loket</a></p>""")
+ ]
+},
+{
  "path":"/over/","active":"/over/","kicker":"Over",
  "title":"Over De Graaff Arbeidsrecht",
  "meta":"Wat De Graaff Arbeidsrecht is, hoe de kantoren in de advocatengids worden geselecteerd en hoe correcties worden verwerkt.",
